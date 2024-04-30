@@ -1,4 +1,4 @@
-# Sgaglione and McCall 2024, Final Research Project for Env 617, Measuring Urban Trees in Amsterdam
+# Sgaglione and McCall 2024, Final Research Project for Env 617, Understanding the Relationship Between Urban Trees, Climate Risk, and Socio-Economic Indicators in Amsterdam
 
 # Introduction #
 Hallo en welkom! Hello and welcome to our Final Project for ENV 617!
