@@ -13,11 +13,15 @@ The goals of this research is to encourage other cities of similar size, density
 
 # Installation #
 
-The files used for this analysis are pre-downloaded on a shared google drive. There is no installation necessary! Just run the code line by line. 
+The files used for this analysis are pre-downloaded on a shared google drive, or available for download online. To access the each data set, please click each link to open the data in a new tab and to a shared drive for access. 
+1. Housing Data: https://maps.amsterdam.nl/open_geodata/geojson_latlng.php?KAARTLAAG=WONINGWAARDE_2022&THEMA=woningwaarde 
+2. Climate Flood Data: [https://docs.google.com/spreadsheets/d/13EOLuNZLE75gEIdwj-QHyYERY_PuXUIbd2gVNq3KN7Q/edit#gid=1690876115](https://maps.amsterdam.nl/open_geodata/geojson_latlng.php?KAARTLAAG=KLIMAAT_OVERSTROMING&THEMA=klimaatadaptatie)
+3. Tree Data: https://docs.google.com/spreadsheets/d/14ploYmE0Bd3A_yyBpEQE5Su7_QIuaWjfsN2dreAkvGg/edit#gid=2030450972 
+4. Neighborhood Data: https://maps.amsterdam.nl/open_geodata/geojson_latlng.php?KAARTLAAG=INDELING_BUURT&THEMA=gebiedsindeling 
 
 
 # Usage # 
-To use this GitHub, click "Final Project Final Draft.ipynb" to access the code for the project. 
+To use this GitHub, click "Final Project Final Draft.ipynb" to access the code for the project. Then click
 
 
 # Citations # 
